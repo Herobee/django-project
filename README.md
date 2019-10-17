@@ -9,6 +9,6 @@ trydjango
 </p>
 <hr>
 <p>
-  Before ==> Lean Django setting & templates and etc..
+  Before ==> Lean Django setting & templates and etc..<br>
   After 1:49:07 ==> Render Data from the Database with a Model
 </p>
