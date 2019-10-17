@@ -9,6 +9,7 @@
 </p>
 <hr>
 <p>
-  Learn Django about settings, templates & etc..<br>
-  After(1:49:07~)-> Learn Render Data from the Database with a Model
+  (0:00:00~)-> Django about settings, templates & etc..<br>
+  (1:49:07~)-> Render Data from the Database with a Model
+  (2:35:36~)-> Make product create Form using RawProuctForm
 </p>
