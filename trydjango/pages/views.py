@@ -18,6 +18,3 @@ def about_view(request, *args, **kwargs):
         "my_html" : "<h1>my_html</h1>"
     }
     return render(request, "about.html", my_context)
-
-def social_view(request, *args, **kwargs):
-    return render(request, "social.html", {})
