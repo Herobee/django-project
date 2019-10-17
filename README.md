@@ -9,6 +9,6 @@
 </p>
 <hr>
 <p>
-  Before ==> Lean Django setting & templates and etc..<br>
+  Before ==> Lean Django about settings, templates & etc..<br>
   After 1:49:07 ==> Render Data from the Database with a Model
 </p>
