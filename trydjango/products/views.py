@@ -20,10 +20,6 @@ def product_create_view(request):
 
 def product_detail_view(request):
     obj = Product.objects.get(id=1)
-    # context = {
-    #     'title' : obj.title,
-    #     'description': obj.description
-    # }
     context = {
         'object' : obj
     }
